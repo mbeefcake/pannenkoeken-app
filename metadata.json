@@ -1,0 +1,5 @@
+{
+  "name": "Pannekoeken calculator",
+  "description": "An application to calculate pancake ingredients based on the number of eggs. Enter the number of eggs, and the app will automatically adjust the quantities for all other ingredients to make perfect pancakes every time.",
+  "requestFramePermissions": []
+}
